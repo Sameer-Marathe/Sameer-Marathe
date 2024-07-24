@@ -28,7 +28,7 @@ Im an Engineering Student pursuing degree in BTECH IT from Shah and Anchor Kutch
 
 <a href="http://www.github.com/Sameer-Marathe"><img src="https://github-readme-stats.vercel.app/api?username=Sameer-Marathe&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sameer-Marathe's GitHub stats" /></a>
 
-<a href="http://www.github.com/Sameer-Marathe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer16536&stroke=10b981&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=10b981&currStreakLabel=0891b2&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
+<a href="http://www.github.com/Sameer-Marathe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-Marathe&stroke=10b981&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=10b981&currStreakLabel=0891b2&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
 
 
